@@ -14,10 +14,10 @@ You need to create an account on [openrouter.ai](https://openrouter.ai).
 
 * Find a model you like at [openrouter.ai/models](https://openrouter.ai/models) and also paste that into the app.
 
-recommended models: 
- * **free:** nousresearch/hermes-3-llama-3.1-405b:free (**note:** there is a daily limit for free models after which you won't be able to use them anymore)
- * **high-end:** google/gemini-pro-1.5
- * **cheaper:** nousresearch/hermes-3-llama-3.1-70b
+**Recommended models:**
+ * **free:** `nousresearch/hermes-3-llama-3.1-405b:free` (**note:** There is a daily limit for free models, after which you won't be able to use them anymore)
+ * **high-end:** `google/gemini-pro-1.5`
+ * **cheaper:** `nousresearch/hermes-3-llama-3.1-70b`
 
 
 ### Oobabooga's webui
