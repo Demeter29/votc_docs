@@ -7,9 +7,11 @@ the mod has 2 parts you need to install.
 
 ## mod files
 
-The mod files can installed through the Steam workshop
+The mod files can installed through the Steam workshop or nexusmod
 
-[Link]
+[Steam workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=3346777360)
+
+[Nexusmods link](https://www.nexusmods.com/crusaderkings3/mods/134)
 
 ## Application
 
@@ -17,8 +19,8 @@ You can download the application here:
 
 | OS | link |
 |---------------|------|
-| Windows 10+ (Installer)        | link |
-| Linux         | link |
+| Windows 10+ (Installer)        | [link](https://github.com/Demeter29/Voices_of_the_Court/releases/download/1.0.0/Voices.of.the.Court-1.0.0.Setup.exe) |
+| Linux         | soon... |
 
 ### Updating
 
