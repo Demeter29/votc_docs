@@ -28,4 +28,10 @@ When a new app version comes out, you can update it through the 'System' tab, no
 
 ### Requirements
 
-The application is not compatible with cloud gaming services that do not forward clipboards like Geforce Now.
+* The application is not compatible with cloud gaming services that do not forward clipboards like Geforce Now.
+
+* The language of CK3 must be in English!
+
+* Ironman saves are not compatible with the mod!
+
+* achievements unfortunately cannot be earned while the mod is enabled.
