@@ -1,13 +1,13 @@
 # Installation
 
-the mod has 2 parts you need to install. 
+the mod has 2 parts you need to install:
 
-* A CK3 mod 
+* A CK3 mod.
 * A seperate application that runs in the background.
 
 ## mod files
 
-The mod files can installed through the Steam workshop or nexusmod
+The mod files can be installed through the Steam workshop or nexusmods
 
 [Steam workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=3346777360)
 
@@ -28,4 +28,4 @@ When a new app version comes out, you can update it through the 'System' tab, no
 
 ### Requirements
 
-The application is not compatible with cloud gaming services that do not forward clipboards.
+The application is not compatible with cloud gaming services that do not forward clipboards like Geforce Now.
