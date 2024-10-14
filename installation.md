@@ -1,0 +1,29 @@
+# Installation
+
+the mod has 2 parts you need to install. 
+
+* A CK3 mod 
+* A seperate application that runs in the background.
+
+## mod files
+
+The mod files can installed through the Steam workshop
+
+[Link]
+
+## Application
+
+You can download the application here:
+
+| OS | link |
+|---------------|------|
+| Windows 10+ (Installer)        | link |
+| Linux         | link |
+
+### Updating
+
+When a new app version comes out, you can update it through the 'System' tab, no need to install it again.
+
+### Requirements
+
+The application is not compatible with cloud gaming services that do not forward clipboards.
