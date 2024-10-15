@@ -1,6 +1,6 @@
 # Installation
 
-the mod has 2 parts you need to install:
+The project has 2 parts you need to install:
 
 * A CK3 mod.
 * A seperate application that runs in the background.
@@ -9,9 +9,8 @@ the mod has 2 parts you need to install:
 
 The mod files can be installed through the Steam workshop or nexusmods
 
-[Steam workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=3346777360)
-
-[Nexusmods link](https://www.nexusmods.com/crusaderkings3/mods/134)
+* [Steam workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=3346777360)
+* [Nexusmods link](https://www.nexusmods.com/crusaderkings3/mods/134)
 
 ## Application
 
@@ -26,7 +25,7 @@ You can download the application here:
 
 When a new app version comes out, you can update it through the 'System' tab, no need to install it again.
 
-### Requirements
+## Requirements
 
 * The application is not compatible with cloud gaming services that do not forward clipboards like Geforce Now.
 
@@ -34,4 +33,4 @@ When a new app version comes out, you can update it through the 'System' tab, no
 
 * Ironman saves are not compatible with the mod!
 
-* achievements unfortunately cannot be earned while the mod is enabled.
+* Achievements unfortunately cannot be earned while the mod is enabled.
