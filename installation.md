@@ -18,7 +18,7 @@ You can download the application here:
 
 | OS | link |
 |---------------|------|
-| Windows 10+ (Installer)        | [link](https://github.com/Demeter29/Voices_of_the_Court/releases/download/1.0.1/Voices.of.the.Court-1.0.1.Setup.exe) |
+| Windows 10+ (Installer)        | [link](https://github.com/Demeter29/Voices_of_the_Court/releases/download/1.1.0/Voices.of.the.Court-1.1.0.Setup.exe) |
 | Linux         | soon... |
 
 ### Updating
